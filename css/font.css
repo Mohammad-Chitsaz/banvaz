@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'iranyYekan';
+  src: url('../assets/fonts/iranYekan/woff/IRANYekanWebThin.woff')
+    format('woff');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'iranYekan';
+  src: url('../assets/fonts/iranYekan/woff/IRANYekanWebLight.woff')
+    format('woff');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'iranYekan';
+  src: url('../assets/fonts/iranYekan/woff/IRANYekanWebRegular.woff')
+    format('woff');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'iranYekan';
+  src: url('../assets/fonts/iranYekan/woff/IRANYekanWebMedium.woff')
+    format('woff');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'iranYekan';
+  src: url('../assets/fonts/iranYekan/woff/IRANYekanWebExtraBold.woff')
+    format('woff');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'iranYekan';
+  src: url('../assets/fonts/iranYekan/woff/IRANYekanWebBlack.woff')
+    format('woff');
+  font-weight: 850;
+}
+
+@font-face {
+  font-family: 'iranYekan';
+  src: url(../assets/fonts/iranYekan/woff/IRANYekanWebExtraBlack.woff);
+  font-weight: 900;
+}
+
+body,
+button,
+span,
+input,
+textarea {
+  font-family: 'iranYekan';
+  font-family: 400;
+  color: var(--bodyColor);
+}
